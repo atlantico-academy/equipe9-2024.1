@@ -1,6 +1,6 @@
 # Análise do conjunto de dados de compartilhamento de bicicletas
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+Este conjunto de dados contém a contagem horária e diária de bicicletas alugadas entre os anos de 2011 e 2012 no sistema de compartilhamento de bicicletas da Capital com as correspondentes informações meteorológicas e sazonais. [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
 ## Desenvolvedores
  - [Michel da Silva #1](https://github.com/Michelitossilva)
