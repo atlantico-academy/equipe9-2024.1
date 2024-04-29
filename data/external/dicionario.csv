@@ -1,0 +1,10 @@
+variavel,descricao,tipo,subtipo
+workingday,"Indica se é dia útil (0: não dia útil, 1: dia útil)",Qualitativa,Nominal
+weathersit,"Condição meteorológica (1: limpo, 2: nublado/nebuloso, 3: chuva leve, 4: chuva forte)",Qualitativa,Nominal
+temp,Temperatura normalizada,Quantitativa,Contínua
+atemp,"Temperatura normalizada em Celsius. Os valores são derivados via (t-t_min)/(t_max-t_min), t_min=-16, t_max=+50 (somente em escala horária)",Quantitativa,Contínua
+hum,Umidade normalizada. Os valores são divididos por 100 (máx.),Quantitativa,Contínua
+windspeed,Velocidade do vento normalizada. Os valores são divididos por 67 (máx.),Quantitativa,Contínua
+casual,Contagem de usuários casuais (pessoas que não são usuárias frequentes),Quantitativa,Contínua
+registered,Contagem de usuários registrados,Quantitativa,Contínua
+cnt,"Contagem do total de bicicletas alugadas, incluindo casuais e registradas.",Quantitativa,Contínua
