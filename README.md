@@ -4,7 +4,7 @@ Este conjunto de dados contém a contagem diária de bicicletas alugadas entre o
 
 ## Desenvolvedores
  - [Michel da Silva #1](https://github.com/Michelitossilva)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
+ - [Emmanuel Sampaio #2](https://github.com/Emmanuel-Sampaio)
  - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
  - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
  - ...
