@@ -1,0 +1,17 @@
+variavel,descricao,tipo,subtipo
+instant,Identificador único para cada registro,Quantitativa,Discreta
+dteday,Data do registro,Qualitativa,Nominal
+season,Estação do ano,Qualitativa,Ordinal
+yr,Ano,Qualitativa,Nominal
+mnth,Mês do ano,Qualitativa,Ordinal
+holiday,Indicador de feriado,Qualitativa,Nominal
+weekday,Dia da semana,Qualitativa,Ordinal
+workingday,Indicador de dia útil,Qualitativa,Nominal
+weathersit,Condição meteorológica,Qualitativa,Ordinal
+temp,Temperatura média em Celsius,Quantitativa,Contínua
+atemp,Sensação térmica média em Celsius,Quantitativa,Contínua
+hum,Umidade relativa média,Quantitativa,Contínua
+windspeed,Velocidade média do vento,Quantitativa,Contínua
+casual,Número de aluguéis de bicicletas feitos por clientes casuais,Quantitativa,Discreta
+registered,Número de aluguéis de bicicletas feitos por clientes registrados,Quantitativa,Discreta
+cnt,Total de aluguéis de bicicletas (casual + registrado),Quantitativa,Discreta
